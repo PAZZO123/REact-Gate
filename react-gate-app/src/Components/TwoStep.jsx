@@ -86,7 +86,7 @@ setSubmittedData(null)
         </div>
       )}
 
-      {/* Step 1: Email */}
+      {/* Step 1: Email Capture */}
       {currentStep === 1 && (
         <div>
           <h2 className="text-2xl font-bold text-gray-800 mb-6">
