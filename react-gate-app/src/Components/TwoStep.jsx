@@ -162,7 +162,7 @@ setSubmittedData(null)
       )}
 
       {/* Step indicator  then*/}
-      {/* Step indicator */}
+      {/* Step indicator then  */}
       <div className="mt-6 flex justify-center">
         <div className="flex space-x-2">
           <div
