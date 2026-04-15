@@ -119,7 +119,7 @@ setSubmittedData(null)
         </div>
       )}
 
-      {/* Step 2: Password */}
+      {/* Step 2: Password  Capturing*/}
       {currentStep === 2 && (
         <div>
           <h2 className="text-2xl font-bold text-gray-800 mb-6">
