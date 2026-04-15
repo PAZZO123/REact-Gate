@@ -161,7 +161,7 @@ setSubmittedData(null)
         </div>
       )}
 
-      {/* Step indicator  then*/}
+      {/* Step indicator  then Well solved*/}
       {/* Step indicator then  well solved */}
       <div className="mt-6 flex justify-center">
         <div className="flex space-x-2">
